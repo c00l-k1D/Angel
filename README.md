@@ -1,6 +1,3 @@
-# Angel
-# ENTITY REPORT — XYESHIS
-
 <p align="center">
   <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/6f30a221-9002-493e-8e7c-e800ee90d140" />
 </p>
